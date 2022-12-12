@@ -34,3 +34,6 @@ With our application, artists can create their NFT's, publish it on specific loc
 
 We believe the scene will only here to expand, having different mediums of art everywhere in earth. We believe it would be a nice touch to add 3D reconstructed sculptures, generated performances and reality bending architectural installments. We would like to provide tools for art world to create their environment in their own setting, reducing the boundaries of this world.
 
+### Solana address
+117mum5SjM3vm2wLhUPxJ42ysWaf1Wx7xjpiTh6U28q
+
